@@ -19,6 +19,7 @@ async function bubble() {
         ele[ele.length-1-i].style.background = 'green';
     }
     ele[0].style.background = 'green';
+    
 }
 
 const bubSortbtn = document.querySelector(".bubble");

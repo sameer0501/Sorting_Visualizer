@@ -141,6 +141,7 @@ newArrayButton.addEventListener("click", function(){
     enableSortingBtn();
     enableSizeSlider();
     createNewArray(arraySize.value);
+    
 });
 
 //Stop Sorting
